@@ -1,4 +1,4 @@
-pepper-document
+Pepper-document
 ===============
 
 ※「アルデバラン・アトリエ秋葉原 with SoftBank」の公式Githubアカウントです※
