@@ -17,7 +17,7 @@ Pepper-document
 　  
 　・技術セッション（応用）  
 　http://www.slideshare.net/Atelier-Akihabara/pepper-tech-festival2014-39468311  
-　
+  
 ・開発体験ワークショップ（2014/09/21）  
   http://www.slideshare.net/Atelier-Akihabara/20140921-v10  
   
